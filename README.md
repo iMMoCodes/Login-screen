@@ -1,6 +1,6 @@
 # Login-screen
 
-Build with express and passport.
+Build with express, passport and ejs.
 
 You can register a user and and login with it
 
